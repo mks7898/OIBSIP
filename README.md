@@ -1,3 +1,3 @@
-these are the Oasis infobyte internship projet
+these are the Oasis infobyte internship project
 
 # OIBSIP  #webdevelopment
